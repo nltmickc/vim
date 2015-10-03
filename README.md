@@ -2,9 +2,8 @@
 
 My vim setup
 
-When installing remember to delete existing .vimrc and symlink to the .vimrc in the .vim directory
+To install install:
 ```
-  $ cd ~
-  $ rm .vimrc
+  $ git clone https://github.com/nltmickc/vim.git ~/.vim
   $ ln -s ~/.vim/.vimrc .vimrc
 ```
